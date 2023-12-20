@@ -1,0 +1,1 @@
+# Earthquale_type_prediction
